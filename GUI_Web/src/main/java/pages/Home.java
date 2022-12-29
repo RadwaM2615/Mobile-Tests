@@ -1,4 +1,4 @@
-package pages.AppHomePage;
+package pages;
 
 import com.shaft.driver.SHAFT;
 import io.qameta.allure.Step;
